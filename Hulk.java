@@ -42,7 +42,7 @@ public class Hulk extends Robot
 	 */
 	public void onScannedRobot(ScannedRobotEvent e) {
 		// Replace the next line with any behavior you would like
-		fire(1);
+		fire(3);
 	}
 
 	/**
